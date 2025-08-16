@@ -61,7 +61,15 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
-				}
+				},
+				'academic-navy': '#1A1A2E',
+				'royal-blue': '#16213E',
+				'academic-red': '#E94560',
+				'light-cream': '#F5F5F5'
+			},
+			fontFamily: {
+				'display': ['Playfair Display', 'serif'],
+				'body': ['Source Sans Pro', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
